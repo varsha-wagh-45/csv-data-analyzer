@@ -14,7 +14,7 @@ This is a Django-based web application that allows users to upload CSV files and
 git clone https://github.com/varsha-wagh-45/csv-data-analyzer.git
 
 2. Navigate to the project directory:
-cd csv-analysis-project
+cd csv_analysis_project
 
 3. Create a virtual environment:
 python -m venv env
